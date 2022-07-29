@@ -67,7 +67,7 @@ Tag belongs to many Product models.<br>
 API Routes were then created to Perform RESTful CRUD Operations.
   
   ## Repository
-  - [Video Walkthrough]()
+  - [Video Walkthrough](https://drive.google.com/file/d/122zHg4QFvXtQEl6dXzm9hU3PaxpY2JvL/view?usp=sharing)
   - [Project Repo](https://github.com/dnsnguy08/e_commerce_back_end)
   ## Questions
   For any questions, please reach out to:
