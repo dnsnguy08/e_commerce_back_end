@@ -54,15 +54,15 @@
   - Express
 
 
-Database Models
+Database Models <br>
 Four databse models were created to to mimic a E-commerce backend.
 
-Associations
-Using Sequelize, association methods were used to build relationships between the models:
-Product belongs to Category, as a category can have multiple products but a product can only belong to one category.
-Category has many Product models.
-Product belongs to many Tag models. Using the ProductTag through model, allow products to have multiple tags and tags to have many products.
-Tag belongs to many Product models.
+Associations <br>
+Using Sequelize, association methods were used to build relationships between the models: <br>
+Product belongs to Category, as a category can have multiple products but a product can only belong to one category.<br>
+Category has many Product models.<br>
+Product belongs to many Tag models. Using the ProductTag through model, allow products to have multiple tags and tags to have many products.<br>
+Tag belongs to many Product models.<br>
 
 API Routes were then created to Perform RESTful CRUD Operations.
   
