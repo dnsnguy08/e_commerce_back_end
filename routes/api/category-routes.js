@@ -62,11 +62,7 @@ router.put('/:id', async (req, res) => {
         }
       }
     )
-    // await Category.update(req.body, {
-    //   where: {
-    //     id: req.params.id
-    //   }
-    // })
+
     const updatedCategory = await Category.findByPk(req.params.id);
     res.json(updatedCategory);
   } catch (error) {
